@@ -18,3 +18,7 @@ And select a shirt and hit override
 # Select or make a folder in your system
 Then open the image in a photo editing software and save it.
 Then reload the page or unequip and requip the shirt.
+
+
+# Now you should have your custom shirt
+<img width="428" height="407" alt="Screenshot 2026-05-16 6 17 18 PM" src="https://github.com/user-attachments/assets/bcd2c553-957a-4c86-9f12-bb1f2ef32e11" />
