@@ -1,5 +1,3 @@
-character.position.x = 0, character.position.y = 3, character.position.z = 0
-
 addStud(250, 1, 250, 0x40783f, 0, 0, 0, 0, 0, 0);
 addStud(22, 1, 250, 0x6b6b6b, 0, 1, 0, 0, 0, 0);
 addStud(250, 1, 22, 0x6b6b6b, 0, 1, 0, 0, 0, 0);
